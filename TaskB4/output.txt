@@ -1,0 +1,1 @@
+added 7001 (O+): size = 1, capacity = 2\nadded 7002 (A+): size = 2, capacity = 2\nadded 7003 (B-): size = 3, capacity = 4\nadded 7004 (AB+0): size = 4, capacity = 4\nadded 7005 (O-): size = 5, capacity = 8\n

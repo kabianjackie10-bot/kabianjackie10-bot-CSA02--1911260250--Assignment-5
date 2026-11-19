@@ -1,0 +1,1 @@
+linear: 1073741824 in 31 calls\nfast : 1073741824 in 6 calls\ndigital root 9875 = 2\n
